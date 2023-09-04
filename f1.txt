@@ -1,1 +1,5 @@
-                
+Hello wellcome to git hub        
+This is my first file where i made changes in the file 
+
+
+this is my third  line the second line was restored       
